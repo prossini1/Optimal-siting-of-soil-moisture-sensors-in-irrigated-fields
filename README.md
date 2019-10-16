@@ -1,11 +1,8 @@
 ## Optimal-siting-of-soil-moisture-sensors-in-irrigated-fields
 
-### Develop a quantitative protocol to decide the optimal location
-### of a limited number of soil moisture sensors in irrigated fields
+### Objective 
+##### Develop a quantitative protocol to decide the optimal location of a limited number of soil moisture sensors in irrigated fields
 
-
-###### Determine field locations (cells of the raster map of interpolated soil
-###### moisture) that have values similar to that of the average of the field.
 
 %% Set script constants
 
